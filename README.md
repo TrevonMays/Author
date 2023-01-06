@@ -1,5 +1,7 @@
 # Author
 
+Hello welcome to the Writer's Guild please look at what at the pictures below and it will show you what you do on the app.
+
 
 <img width="1440" alt="Author 2" src="https://user-images.githubusercontent.com/103228576/211085916-5c275bf2-5b14-48a3-9883-9f04a4795def.png">
 
